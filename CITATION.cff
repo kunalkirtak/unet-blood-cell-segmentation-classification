@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Leveraging U-Net for Efficient Blood Cell Segmentation and Classification"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Kirtak"
+    given-names: "Kunal B."
+  - family-names: "Raut"
+    given-names: "Saurabh R."
+  - family-names: "Khandelwal"
+    given-names: "Richa"
+  - family-names: "Dwivedy"
+    given-names: "Prashant"
+year: 2024
+doi: "10.1109/CICT64037.2024.10899443"
