@@ -160,7 +160,7 @@ The model generates segmentation masks overlayed on input images:
 ├── hemodetect_unet.ipynb
 ├── dataset/
 ├── results/
-├── Model.md
+├── Model
 ├── README.md
 ├── requirements.txt
 ```
