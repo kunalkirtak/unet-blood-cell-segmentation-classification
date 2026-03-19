@@ -160,6 +160,7 @@ The model generates segmentation masks overlayed on input images:
 ├── hemodetect_unet.ipynb
 ├── dataset/
 ├── results/
+├── Model/
 ├── README.md
 ├── requirements.txt
 ```
@@ -180,8 +181,13 @@ cd unet-blood-cell-segmentation-classification
 ```
 pip install -r requirements.txt
 ```
+### 3. Upload the Model
 
-### 3. Run the Notebook
+```
+Model.h5
+```
+
+### 4. Run the Notebook
 
 Open:
 
