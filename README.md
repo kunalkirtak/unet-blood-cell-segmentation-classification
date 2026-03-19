@@ -11,6 +11,8 @@
 
 **Leveraging U-Net for Efficient Blood Cell Segmentation and Classification**
 
+link: https://ieeexplore.ieee.org/document/10899443
+
 ---
 
 ## 📄 Abstract
