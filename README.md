@@ -221,7 +221,55 @@ B.Tech Electronics and Computer Science
 Shri Ramdeobaba College of Engineering and Management
 
 ---
+## 📚 Citation
 
+If you use this work, please cite:
+
+### 🔹 IEEE Format
+
+```
+K. B. Kirtak, S. R. Raut, R. Khandelwal and P. Dwivedy, 
+"Leveraging U-Net for Efficient Blood Cell Segmentation and Classification," 
+2024 IEEE 8th International Conference on Information and Communication Technology (CICT), 
+Prayagraj, UP, India, 2024, pp. 1-6, 
+doi: 10.1109/CICT64037.2024.10899443.
+```
+
+---
+
+### 🔹 BibTeX
+
+```
+@INPROCEEDINGS{10899443,
+  author={Kirtak, Kunal B. and Raut, Saurabh R. and Khandelwal, Richa and Dwivedy, Prashant},
+  booktitle={2024 IEEE 8th International Conference on Information and Communication Technology (CICT)}, 
+  title={Leveraging U-Net for Efficient Blood Cell Segmentation and Classification}, 
+  year={2024},
+  pages={1-6},
+  doi={10.1109/CICT64037.2024.10899443}
+}
+```
+
+---
+
+### 🔹 RIS Format
+
+```
+TY  - CONF
+TI  - Leveraging U-Net for Efficient Blood Cell Segmentation and Classification
+T2  - 2024 IEEE 8th International Conference on Information and Communication Technology (CICT)
+SP  - 1
+EP  - 6
+AU  - K. B. Kirtak
+AU  - S. R. Raut
+AU  - R. Khandelwal
+AU  - P. Dwivedy
+PY  - 2024
+DO  - 10.1109/CICT64037.2024.10899443
+ER  -
+```
+
+---
 ## ⭐ Support
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
