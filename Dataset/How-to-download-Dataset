@@ -1,0 +1,8 @@
+Dataset Acquisition
+
+Download: Navigate to the Dataset directory and download the compressed ZIP file.
+Extraction: Extract the contents to your local machine.
+Structure: The dataset is pre-organized into three primary subsets with corresponding annotations:
+Training: For model optimization.
+Validation: For hyperparameter tuning.
+Testing: For final performance evaluation.
